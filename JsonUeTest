@@ -1,17 +1,17 @@
 {
   "UserInfo":[
     {
-      "UserId": "0"
-      "Name": "Angus"
-      "PlayerDesc": "Hi"
-      "MaxGold": "100"
+      "UserId":"0",
+      "Name":"Angus",
+      "PlayerDesc": "Hi",
+      "MaxGold": "100",
       "Team": "Potato"
     },
     {
-      "UserId": "1"
-      "Name": "Jo"
-      "PlayerDesc": "Yo"
-      "MaxGold": "60"
+      "UserId": "1",
+      "Name": "Jo",
+      "PlayerDesc": "Yo",
+      "MaxGold": "60",
       "Team": "Tomato"
     }
   ]
